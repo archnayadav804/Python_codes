@@ -1,4 +1,4 @@
-
+Program of adding two numbers by using the fuction and global variables.
 def add():
     global a,b
     a=3
